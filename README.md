@@ -58,14 +58,13 @@
 <h2 align="center">📊 GitHub Statistics</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Swastika004&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Swastika's GitHub Stats" height="175" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swastika004&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="175" />
+  <img src="https://streak-stats.demolab.com/?user=Swastika004&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Swastika004&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Swastika004&theme=tokyonight&hide_border=true" alt="GitHub Activity Graph" width="100%" />
 </div>
 
 <p align="center">
