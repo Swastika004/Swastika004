@@ -1,16 +1,87 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Swastika <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 
-<!--
-**Swastika004/Swastika004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&duration=2800&pause=1000&color=36BCF7&center=true&vCenter=true&width=760&lines=Software+Developer;Full-Stack+Engineer;Java+%26+React+Developer;Problem+Solver" 
+    alt="Typing SVG"
+  />
+</div>
 
-Here are some ideas to get you started:
+<p align="center">
+━━━━━━━━━━━━━━━━━━━━
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="center">
+  I'm a Software Developer <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="20px" />
+</h3>
+
+<p align="center">
+  Full-stack developer focused on turning experimental ideas into production-ready systems,<br/>
+  seamlessly bridging frontend craft and robust backend engineering.
+</p>
+
+<p align="center">
+━━━━━━━━━━━━━━━━━━━━
+</p>
+
+<h2 align="center">⚡ My Technical Stack</h2>
+
+<h3 align="center">Programming Languages</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,js,ts,html,css" height="48" alt="Languages" />
+</p>
+
+<h3 align="center">Frameworks & Libraries</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=spring,react,nodejs,express,tailwind" height="48" alt="Frameworks" />
+</p>
+
+<h3 align="center">Build Tools & Package Managers</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=maven,vite,npm" height="48" alt="Build Tools" />
+</p>
+
+<h3 align="center">Databases & Hosting</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,vercel" height="48" alt="Databases" />
+</p>
+
+<h3 align="center">Tools & Software</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" height="48" alt="Tools" />
+</p>
+
+<p align="center">
+━━━━━━━━━━━━━━━━━━━━
+</p>
+
+<h2 align="center">📊 GitHub Statistics</h2>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Swastika004&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Swastika's GitHub Stats" height="175" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swastika004&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="175" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Swastika004&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<p align="center">
+━━━━━━━━━━━━━━━━━━━━
+</p>
+
+<h2 align="center">📬 Connect With Me</h2>
+
+<p align="center">
+  <a href="https://github.com/Swastika004">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://linkedin.com">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</p>
