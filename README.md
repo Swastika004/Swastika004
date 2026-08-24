@@ -55,17 +55,8 @@
 ━━━━━━━━━━━━━━━━━━━━
 </p>
 
-<h2 align="center">📊 GitHub Statistics</h2>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Swastika004&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
-</div>
 
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Swastika004&theme=tokyonight&hide_border=true" alt="GitHub Activity Graph" width="100%" />
-</div>
 
 <p align="center">
 ━━━━━━━━━━━━━━━━━━━━
