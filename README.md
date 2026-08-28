@@ -6,19 +6,7 @@
     alt="Typing SVG"
   />
 </div>
-<p align="center">
-━━━━━━━━━━━━━━━━━━━━
-</p>
-<div align="center">
-<p>  About Me </p>
-🎯 Aspiring Database Administrator (DBA)
-💻 Interested in SQL and Database Management
-⚡ Focused on Database Performance & Optimization
-🔐 Interested in Database Security & Backup
-📚 Continuously learning and improving my database skills
-🚀 Goal: To build, manage, secure, and optimize reliable database systems
 
-</div>
 <p align="center">
 ━━━━━━━━━━━━━━━━━━━━
 </p>
@@ -28,9 +16,12 @@
 </h3>
 
 <p align="center">
-  Aspiring Database Administrator (DBA) focused on database management, performance optimization, security, and reliable data systems.
-
-</p>
+🎯 Aspiring Database Administrator (DBA)<br>
+💻 Interested in SQL and Database Management <br>
+⚡ Focused on Database Performance & Optimization <br>
+🔐 Interested in Database Security & Backup <br>
+📚 Continuously learning and improving my database skills<br>
+🚀 Goal: To build, manage, secure, and optimize reliable database system.<br>
 
 <p align="center">
 ━━━━━━━━━━━━━━━━━━━━
