@@ -46,7 +46,7 @@
 
 <h3 align="center">Databases & Hosting</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,oracle,vercel" height="48" alt="Databases" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,vercel" height="48" alt="Databases" />
 </p>
 
 <h3 align="center">Tools & Software</h3>
