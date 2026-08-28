@@ -48,13 +48,13 @@
 
 <h3 align="center">Tools & Software</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,springboot" height="48" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,sts" height="48" alt="Tools" />
 </p>
 <p align="center">
 ━━━━━━━━━━━━━━━━━━━━
 </p>
 
-<h2 align="center">📬 Connect With Me</h2>
+<h2 align="center">📬 Connect Me</h2>
 
 <p align="center">
   <a href="https://github.com/Swastika004">
