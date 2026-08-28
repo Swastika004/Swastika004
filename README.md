@@ -1,8 +1,8 @@
-<h1 align="center">Hi, I'm Swastika <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
+<h1 align="center">Hi,Swastika here! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 
 <div align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&duration=2800&pause=1000&color=36BCF7&center=true&vCenter=true&width=760&lines=Software+Developer;Full-Stack+Engineer;Java+%26+React+Developer;Problem+Solver" 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&duration=2800&pause=1000&color=36BCF7&center=true&vCenter=true&width=760&lines=Software+Developer;Full-Stack+Developer;Java+%26+React+Developer;Problem+Solver" 
     alt="Typing SVG"
   />
 </div>
@@ -16,8 +16,8 @@
 </h3>
 
 <p align="center">
-  Full-stack developer focused on turning experimental ideas into production-ready systems,<br/>
-  seamlessly bridging frontend craft and robust backend engineering.
+  Aspiring Database Administrator (DBA) focused on database management, performance optimization, security, and reliable data systems.
+
 </p>
 
 <p align="center">
@@ -33,22 +33,22 @@
 
 <h3 align="center">Frameworks & Libraries</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=spring,react,nodejs,express,tailwind" height="48" alt="Frameworks" />
+  <img src="https://skillicons.dev/icons?i=spring,react,nodejs,tailwind" height="48" alt="Frameworks" />
 </p>
 
 <h3 align="center">Build Tools & Package Managers</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=maven,vite,npm" height="48" alt="Build Tools" />
+  <img src="https://skillicons.dev/icons?i=maven,npm" height="48" alt="Build Tools" />
 </p>
 
 <h3 align="center">Databases & Hosting</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,vercel" height="48" alt="Databases" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,vercel" height="48" alt="Databases" />
 </p>
 
 <h3 align="center">Tools & Software</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" height="48" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,springboot" height="48" alt="Tools" />
 </p>
 <p align="center">
 ━━━━━━━━━━━━━━━━━━━━
