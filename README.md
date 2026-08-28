@@ -6,7 +6,19 @@
     alt="Typing SVG"
   />
 </div>
+<p align="center">
+━━━━━━━━━━━━━━━━━━━━
+</p>
+<div align="center">
+<p>  About Me </p>
+🎯 Aspiring Database Administrator (DBA)
+💻 Interested in SQL and Database Management
+⚡ Focused on Database Performance & Optimization
+🔐 Interested in Database Security & Backup
+📚 Continuously learning and improving my database skills
+🚀 Goal: To build, manage, secure, and optimize reliable database systems
 
+</div>
 <p align="center">
 ━━━━━━━━━━━━━━━━━━━━
 </p>
@@ -43,12 +55,12 @@
 
 <h3 align="center">Databases & Hosting</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,vercel" height="48" alt="Databases" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,oracle,vercel" height="48" alt="Databases" />
 </p>
 
 <h3 align="center">Tools & Software</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,sts" height="48" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" height="48" alt="Tools" />
 </p>
 <p align="center">
 ━━━━━━━━━━━━━━━━━━━━
