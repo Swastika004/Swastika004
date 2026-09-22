@@ -2,7 +2,7 @@
 
 <div align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&duration=2800&pause=1000&color=36BCF7&center=true&vCenter=true&width=760&lines=Software+Developer;Full-Stack+Developer;Java+%26+React+Developer;Problem+Solver" 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&duration=2800&pause=1000&color=36BCF7&center=true&vCenter=true&width=760&lines= Aspiring Software+Developer;Full-Stack+Developer;;Problem+Solver" 
     alt="Typing SVG"
   />
 </div>
@@ -31,7 +31,7 @@
 
 <h3 align="center">Programming Languages</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,ts,html,css" height="48" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=java,python,js,html,css" height="48" alt="Languages" />
 </p>
 
 <h3 align="center">Frameworks & Libraries</h3>
@@ -46,7 +46,7 @@
 
 <h3 align="center">Databases & Hosting</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,vercel" height="48" alt="Databases" />
+  <img src="https://skillicons.dev/icons?i=mysql,vercel" height="48" alt="Databases" />
 </p>
 
 <h3 align="center">Tools & Software</h3>
